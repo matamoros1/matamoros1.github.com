@@ -1,0 +1,48 @@
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+#main-content{margin-left:20px;
+width:100%;
+position:relative
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	color: #000000;
+}
+
+h2 {
+	font-size: 25px;
+	color: #999999;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #999999;
+}
+
+.imgLeft {float:left;
+width:35%;
+padding:0 10px 30px	0px}
+
+.imgRight {float:left;
+width:35%;
+padding:0 10px 30px	0px}
+
+.article1 {float:left;
+top:0;
+width:45%;
+padding:10px
+}
+.article2 {float:left;
+top:0;
+width:45%;
+padding:10px
+}
+
+
+
